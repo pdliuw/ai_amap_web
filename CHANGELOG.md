@@ -1,3 +1,8 @@
+## [2.1.0] stable
+
+* upgrade package version.
+
+
 ## [2.0.0] stable
 
 * stable version.
